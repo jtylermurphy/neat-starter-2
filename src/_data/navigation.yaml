@@ -1,9 +1,9 @@
 ---
 items:
   - text: Home
-    url: "#"
+    url: "/"
   - text: Apt. 2
-    url: "#"
+    url: "/apt2"
 
   - text: Blog
     url: "/blog"

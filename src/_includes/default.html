@@ -9,6 +9,13 @@
     <meta name="description" content="{{description}}" />
     {% endif %} {% block head %}{% endblock %}
     <link
+      rel="icon"
+      type="image/png"
+      href="{{settings.favicon}}"
+      sizes="16x16 32x32 96x96"
+    />
+
+    <link
       href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Prata&display=swap"
       rel="stylesheet"
     />
@@ -25,6 +32,7 @@
       type="text/css"
       rel="stylesheet"
     />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
     <script
       src="https://cdn.jsdelivr.net/npm/featherlight@1.7.14/release/featherlight.min.js"
       type="text/javascript"
