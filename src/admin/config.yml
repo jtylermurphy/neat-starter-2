@@ -30,6 +30,13 @@ collections:
         multiple: true
         create: true
         options: ["Tags", "created", "from", "config.yml"]
+      - label: "Featured Image"
+          name: "thumbnail"
+          widget: "image"
+          choose_url: true
+          media_library:
+            config:
+              multiple: true
   - label: "Settings"
     name: "settings"
     editor:
