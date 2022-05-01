@@ -30,9 +30,9 @@ collections:
         multiple: true
         create: true
         options: ["Tags", "created", "from", "config.yml"]
-      - label: "Featured Image"
+      - widget: image
+        label: "Featured Image"
         name: "thumbnail"
-        widget: "image"
         choose_url: true
         media_library:
           config:
