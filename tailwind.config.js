@@ -4,6 +4,10 @@ module.exports = {
     container: {
       center: true,
     },
+    fontFamily: {
+      sans: ['Lato', 'helvetica', 'arial', 'sans-serif'],
+      serif: ['Prata', 'serif'],
+    },
     extend: {
       colors: {},
     },
