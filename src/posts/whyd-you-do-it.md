@@ -7,6 +7,7 @@ author: Kevin Callaway and Jason Jett
 date: 2022-05-01T20:45:15.982Z
 tags:
   - Tags
+thumbnail: /static/img/kevinbobjason.jpg
 ---
 Why'd you buy a 100-year-old mansion on Capitol Avenue? Don't you know old houses bring old problems?
 
